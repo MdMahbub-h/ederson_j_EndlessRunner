@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #301800;
+  margin: 0;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 95%;
+  /* padding-top: 10px; */
+  padding-bottom: 10px;
+  /* background: #5e00a1; */
+  /* border: 5px solid rgb(157, 58, 255); */
+  /* border-radius: 20px; */
+}
+@font-face {
+  font-family: "font1";
+  src: url("assets/louiseffa226/0_font/PatuaOne-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "font2";
+  src: url("assets/louiseffa226/0_font/troika.otf") format("truetype");
+}
